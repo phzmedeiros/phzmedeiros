@@ -47,4 +47,4 @@
     <img src="https://skillicons.dev/icons?i=py,linux,figma,visualstudio,vscode,mysql,react,php" />
   </a>
 </p>
-<img align="right" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=phzmedeiros&theme=tokyonight" alt="phzmedeiros" />
+<img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=phzmedeiros&theme=tokyonight" alt="phzmedeiros" />
