@@ -35,7 +35,9 @@
 </p>
 
 <br>
-<img align="left" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/fbcccb7b-d67c-412e-8a79-ae049e985b2e">
+<br>
+<br>
+<img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/fbcccb7b-d67c-412e-8a79-ae049e985b2e">
 <h3 align="right">Languages and Tools:</h3>
 <p align="right">
   <a href="https://skillicons.dev">
