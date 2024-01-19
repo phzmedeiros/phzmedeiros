@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+Pedro+Medeiros;Ol%C3%A1+%F0%9F%91%8B%2C++sou+Pedro+Medeiros;Hola+%F0%9F%91%8B%2C+soy+Pedro+Medeiros;Salut+%F0%9F%91%8B%2C+je+m'appelle+Pedro+Medeiros;Ciao+%F0%9F%91%8B%2C+sono+Pedro+Medeiros;%E5%97%A8%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A9%E5%BE%B7%E7%BD%97%C2%B7%E6%A2%85%E4%BB%A3%E7%BD%97%E6%96%AF;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B%2C+%D1%8F+%D0%9F%D0%B5%D0%B4%D1%80%D0%BE+%D0%9C%D0%B5%D0%B4%D0%B5%D0%B9%D1%80%D0%BE%D1%81.;Hallo+%F0%9F%91%8B%2C+ich+bin+Pedro+Medeiros" alt="Typing SVG" /></a></h1>
 <h3 align="center">A computer science brazilian studant</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/5ccb3721-9553-4a42-a060-66c15387a636">
+<img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/1561b3d8-76c0-463a-aaf6-ec8ad096d7ff">
 <br>
 
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **18** years old
