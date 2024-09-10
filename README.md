@@ -5,7 +5,7 @@
 
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **19** years old
 
-- 🌱 I’m currently pursuing a bacharelor's degree at **Software Engineering**
+- 🌱 I’m currently studiyng **Software Engineering** at PUCC
   
 - 🌍 Languages **Portuguese - Fluent/Native | English - Advanced**
 
