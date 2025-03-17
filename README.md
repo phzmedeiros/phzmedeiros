@@ -5,13 +5,13 @@
 
 - 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **19** years old
 
-- 🌱 I’m currently studiyng **Software Engineering** at PUCC
+- 🌱 I’m currently studying **Software Engineering** at PUCC
   
 - 🌍 Languages **Portuguese - Fluent/Native | English - Advanced**
 
 - ⚡ Fun fact **I'm fascinated by science!**
     
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **Math, Physics, Anything!**
 
 - 📫 How to reach me **pedrohenriquemreis@gmail.com**
 
